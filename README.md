@@ -1,7 +1,7 @@
 <h1><b>👋 Welcome to my GitHub Profile!</b></h1>
 
 <h3><b>👨‍💻 About Me</b></h3>
-<p>I am a <b>Medical Information Technology student</b> since the winter semester <b>2022/23</b>. 
+<p>I am a <b>Medical IT Engineering student</b> since the winter semester <b>2022/23</b>. 
 My passion lies in <b>software development</b>, where I enjoy creating <b>innovative solutions</b> and solving 
 <b>complex problems</b>—especially in the healthcare sector.</p>
 
